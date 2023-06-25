@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/fastib2pci/test_1/static/css/main.f8610f8c.chunk.css",
-    "main.js": "/fastib2pci/test_1/static/js/main.0d680088.chunk.js",
-    "runtime-main.js": "/fastib2pci/test_1/static/js/runtime-main.99303c06.js",
-    "static/js/2.90cf16da.chunk.js": "/fastib2pci/test_1/static/js/2.90cf16da.chunk.js",
-    "index.html": "/fastib2pci/test_1/index.html",
-    "static/js/2.90cf16da.chunk.js.LICENSE.txt": "/fastib2pci/test_1/static/js/2.90cf16da.chunk.js.LICENSE.txt"
+    "main.css": "/demo/test_1/static/css/main.f8610f8c.chunk.css",
+    "main.js": "/demo/test_1/static/js/main.c7b27be8.chunk.js",
+    "runtime-main.js": "/demo/test_1/static/js/runtime-main.797b2c94.js",
+    "static/js/2.10c60724.chunk.js": "/demo/test_1/static/js/2.10c60724.chunk.js",
+    "index.html": "/demo/test_1/index.html",
+    "static/js/2.10c60724.chunk.js.LICENSE.txt": "/demo/test_1/static/js/2.10c60724.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.99303c06.js",
-    "static/js/2.90cf16da.chunk.js",
+    "static/js/runtime-main.797b2c94.js",
+    "static/js/2.10c60724.chunk.js",
     "static/css/main.f8610f8c.chunk.css",
-    "static/js/main.0d680088.chunk.js"
+    "static/js/main.c7b27be8.chunk.js"
   ]
 }
